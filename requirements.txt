@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-groq
+groq
+faiss-cpu
+pypdf
+python-docx
+Pillow
+pandas
+numpy
+python-dotenv
+pydantic
